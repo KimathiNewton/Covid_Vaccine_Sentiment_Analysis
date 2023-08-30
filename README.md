@@ -1,5 +1,15 @@
 
-# Covid Vaccine Sentiments Analysis Using Hugging Face
+# Covid Vaccine Sentiment Analysis
+
+## Introduction
+This project aims to develop a Machine Learning model to assess positive, negative, or neutral Twitter posts related to vaccinations. The solution will help the governments and other public health actors monitor public sentiment towards COVID-19 vaccinations and help improve public health policy, vaccine communication strategies, and vaccination programs worldwide.
+In this project, we are working with text data; text data is initially non-numerical and must be processed before it can be fed into a Machine Learning algorithm.
+
+For this we use Natural Language Processing - Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken and written -- referred to as natural language.
+
+
+
+## Sentiment Analysis Using Hugging Face
 
 Hugging Face is an open-source and platform provider of machine learning technologies. You can use install their package to access some interesting pre-built models to use them directly or to fine-tune (retrain it on your dataset leveraging the prior knowledge coming with the first training), then host your trained models on the platform, so that you may use them later on other devices and apps.
 
@@ -19,7 +29,20 @@ The data comes from tweets collected and classified through Crowdbreaks.org [Mul
 
 The objective of this challenge is to develop a machine learning model to assess if a twitter post that is related to vaccinations is positive, neutral, or negative.
 
-## Variable definition:
+## Data Understanding:
+
+Here we check the data’s quality and completeness and explore variables and their relationship.
+
+We are provided with 4 different kinds of files:
+
+1. variable_definitions.csv - This file describes the different variables in the data.
+2. sampleSubmission.csv - This file shows the structure of your submission file.
+3. train.csv - This file contains relevant data/variables that will help train the final model; It can be split into train and test to test locally.
+4. CaptureSite_category.csv - This file contains the capture sites and their category.
+
+**Hint: Since this is a sentiment analysis challenge we’ll likely prioritize the textual variables.**
+
+For this challenge it seems we are working with 4 different variables:
 
 tweet_id: Unique identifier of the tweet
 
