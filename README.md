@@ -1,9 +1,25 @@
-# About
+
+# Covid Vaccine Sentiments Analysis Using Hugging Face
+
+Hugging Face is an open-source and platform provider of machine learning technologies. You can use install their package to access some interesting pre-built models to use them directly or to fine-tune (retrain it on your dataset leveraging the prior knowledge coming with the first training), then host your trained models on the platform, so that you may use them later on other devices and apps.
+
+Please, [go to the website and sign-in](https://huggingface.co/) to access all the features of the platform.
+
+[Read more about Text classification with Hugging Face](https://huggingface.co/tasks/text-classification)
+
+The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. Please use [Colab](https://Find below a simple example, with just `3 epochs of fine-tuning`. 
+
+## Application of Hugging Face Text classification model Fune-tuning
+Read more about the fine-tuning concept : [here](https://deeplizard.com/learn/video/5T-iXNNiwIs#:~:text=Fine%2Dtuning%20is%20a%20way,perform%20a%20second%20similar%20task.).research.google.com/) to do it, or your other GPU cloud provider, or a local machine having NVIDIA GPU.
+
+
+
+## Data Description
 The data comes from tweets collected and classified through Crowdbreaks.org [Muller, Martin M., and Marcel Salathe. "Crowdbreaks: Tracking Health Trends Using Public Social Media Data and Crowdsourcing." Frontiers in public health 7 (2019).]. Tweets have been classified as pro-vaccine (1), neutral (0) or anti-vaccine (-1). The tweets have had usernames and web addresses removed.
 
 The objective of this challenge is to develop a machine learning model to assess if a twitter post that is related to vaccinations is positive, neutral, or negative.
 
-# Variable definition:
+## Variable definition:
 
 tweet_id: Unique identifier of the tweet
 
@@ -23,7 +39,7 @@ SampleSubmission.csv - is an example of what your submission file should look li
 
 NLP_Primer_twitter_challenge.ipynb - is a starter notebook to help you make your first submission on this challenge.
 
-# Setup
+## Setup
 Install the required packages to be able to run the evaluation locally.
 
 You need to have Python3 on your system. Then you can clone this repo and being at the repo's root (root :: repo_name> ...) follow the steps below:
@@ -44,3 +60,10 @@ The both long command-lines have a same structure, they pipe multiple commands u
 * Install the required libraries/packages listed in the requirements.txt file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 NB: For MacOs users, please install Xcode if you have an issue.
 
+## Feedback and Support
+Email: newtonkimathi20@gmail.com
+
+GitHub Issues: Feel free to create an issue in the GitHub repository.
+
+## Author
+Newton Kimathi
