@@ -85,7 +85,7 @@ NB: For MacOs users, please install Xcode if you have an issue.
 
 ## Feedback and Support
 Email: newtonkimathi20@gmail.com
-
+LinkedIn : https://www.linkedin.com/in/kimathinewton
 GitHub Issues: Feel free to create an issue in the GitHub repository.
 
 ## Author
