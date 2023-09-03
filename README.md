@@ -7,7 +7,9 @@ In this project, we are working with text data; text data is initially non-numer
 
 For this we use Natural Language Processing - Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken and written -- referred to as natural language.
 
-
+## Sentiment Analysis
+Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation.
+![Sentiments](Images/sentiment.png)
 
 ## Sentiment Analysis Using Hugging Face
 
