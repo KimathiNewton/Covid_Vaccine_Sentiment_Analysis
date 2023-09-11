@@ -1,7 +1,7 @@
 pytest
 wheel
 setuptools
-backports.zoneinfo
+#backports.zoneinfo
 pandas
 scikit-learn
 seaborn
