@@ -16,3 +16,5 @@ notebook
 jupyter
 ipywidgets
 gradio
+imbalanced-learn
+streamlit
