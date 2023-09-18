@@ -19,7 +19,7 @@ Please, [go to the website and sign-in](https://huggingface.co/) to access all t
 
 [Read more about Text classification with Hugging Face](https://huggingface.co/tasks/text-classification)
 
-The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. Please use [Colab](https://Find below a simple example, with just `3 epochs of fine-tuning`. 
+The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. 
 
 ## Application of Hugging Face Text classification model Fune-tuning
 Read more about the fine-tuning concept : [here](https://deeplizard.com/learn/video/5T-iXNNiwIs#:~:text=Fine%2Dtuning%20is%20a%20way,perform%20a%20second%20similar%20task.).research.google.com/) to do it, or your other GPU cloud provider, or a local machine having NVIDIA GPU.
@@ -84,6 +84,22 @@ The both long command-lines have a same structure, they pipe multiple commands u
 * Upgrade Pip, the installed libraries/packages manager to have the up-to-date version that will work correctly;
 * Install the required libraries/packages listed in the requirements.txt file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 NB: For MacOs users, please install Xcode if you have an issue.
+
+## Bert Model
+Bidirectional Encoder Representations from Transformers (BERT) is a state of the art model based on transformers developed by google. It can be pre-trained and later fine-tuned for a specific task.
+
+Bert was pre-trained on the BooksCorpus dataset and English Wikipedia. It obtained state-of-the-art results on eleven natural language processing tasks.
+
+Bert was trained on two tasks simultaneously
+
+* Masked language modelling (MLM) — 15% of the tokens were masked and was trained to predict the masked word
+* Next Sentence Prediction(NSP) — Given two sentences A and B, predict whether B follows A
+BERT is designed to pre-train deep bidirectional representations from an unlabeled text by jointly conditioning on both left and right context in all layers.As a result, the pre-trained BERT model can be finetuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
+
+BERT has several variants, including “bert-base-uncased” and “bert-base-cased,” which differ in their tokenization strategies (whether text is lowercase or case-sensitive), and there are larger versions of BERT with more parameters for even better performance.
+
+
+
 
 ## Feedback and Support
 Email: newtonkimathi20@gmail.com
