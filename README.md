@@ -21,6 +21,16 @@ Please, [go to the website and sign-in](https://huggingface.co/) to access all t
 
 The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. 
 
+## Article
+![Article Link](https://medium.com/@NewtonKimathi/covid-sentiment-analysis-4323c1dae633)
+
+Also check out my latest articles here:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/1" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/1" alt="Recent Article 1"> 
+
+
+
 ## Application of Hugging Face Text classification model Fune-tuning
 Read more about the fine-tuning concept : [here](https://deeplizard.com/learn/video/5T-iXNNiwIs#:~:text=Fine%2Dtuning%20is%20a%20way,perform%20a%20second%20similar%20task.).research.google.com/) to do it, or your other GPU cloud provider, or a local machine having NVIDIA GPU.
 
@@ -84,6 +94,9 @@ The both long command-lines have a same structure, they pipe multiple commands u
 * Upgrade Pip, the installed libraries/packages manager to have the up-to-date version that will work correctly;
 * Install the required libraries/packages listed in the requirements.txt file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 NB: For MacOs users, please install Xcode if you have an issue.
+
+## App Interface
+
 
 ## Bert Model
 Bidirectional Encoder Representations from Transformers (BERT) is a state of the art model based on transformers developed by google. It can be pre-trained and later fine-tuned for a specific task.
