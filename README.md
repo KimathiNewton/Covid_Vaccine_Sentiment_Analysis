@@ -22,11 +22,13 @@ Please, [go to the website and sign-in](https://huggingface.co/) to access all t
 The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. 
 
 ## Article
-[Article Link](https://medium.com/@NewtonKimathi/covid-sentiment-analysis-4323c1dae633)
+Here is the [Article Link](https://medium.com/@NewtonKimathi/covid-sentiment-analysis-4323c1dae633)
 
 Also check out my latest articles here:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 1"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2" alt="Recent Article 2"> 
 
@@ -96,8 +98,6 @@ The both long command-lines have a same structure, they pipe multiple commands u
 * Install the required libraries/packages listed in the requirements.txt file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 NB: For MacOs users, please install Xcode if you have an issue.
 
-## App Interface
-
 
 ## Bert Model
 Bidirectional Encoder Representations from Transformers (BERT) is a state of the art model based on transformers developed by google. It can be pre-trained and later fine-tuned for a specific task.
@@ -112,12 +112,17 @@ BERT is designed to pre-train deep bidirectional representations from an unlabel
 
 BERT has several variants, including “bert-base-uncased” and “bert-base-cased,” which differ in their tokenization strategies (whether text is lowercase or case-sensitive), and there are larger versions of BERT with more parameters for even better performance.
 
-
+## App Interface
+![App Interface](Images/Interface.png)
 
 
 ## Feedback and Support
 Email: newtonkimathi20@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/kimathinewton
+
+Hugging Face : https://huggingface.co/NewtonKimathi
+
 GitHub Issues: Feel free to create an issue in the GitHub repository.
 
 ## Author
