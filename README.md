@@ -22,13 +22,13 @@ Please, [go to the website and sign-in](https://huggingface.co/) to access all t
 The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. 
 
 ## Article
-![Article Link](https://medium.com/@NewtonKimathi/covid-sentiment-analysis-4323c1dae633)
+[Article Link](https://medium.com/@NewtonKimathi/covid-sentiment-analysis-4323c1dae633)
 
 Also check out my latest articles here:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2" alt="Recent Article 2"> 
 
 
 
