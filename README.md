@@ -14,11 +14,6 @@ Sentiment analysis is the process of analyzing digital text to determine if the 
 ## Sentiment Analysis Using Hugging Face
 
 Hugging Face is an open-source and platform provider of machine learning technologies. You can use install their package to access some interesting pre-built models to use them directly or to fine-tune (retrain it on your dataset leveraging the prior knowledge coming with the first training), then host your trained models on the platform, so that you may use them later on other devices and apps.
-
-Please, [go to the website and sign-in](https://huggingface.co/) to access all the features of the platform.
-
-[Read more about Text classification with Hugging Face](https://huggingface.co/tasks/text-classification)
-
 The Hugging face models are Deep Learning based, so will need a lot of computational GPU power to train them. 
 
 ## Article
