@@ -25,9 +25,10 @@ The Hugging face models are Deep Learning based, so will need a lot of computati
 ![Article Link](https://medium.com/@NewtonKimathi/covid-sentiment-analysis-4323c1dae633)
 
 Also check out my latest articles here:
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/1" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 1"> 
 
 
 
